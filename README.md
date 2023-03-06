@@ -1,4 +1,6 @@
-Hi There, I'm Hugh 
+Hi There👋, I'm Hugh 
+
+📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hulyamr13&theme=tokyonight)](https://github.com/Hulyamr13)
 
@@ -7,5 +9,3 @@ Hi There, I'm Hugh
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&hide_progress=true&theme=tokyonight)](https://github.com/Hulyamr13)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&langs_count=8&theme=tokyonight)](https://github.com/Hulyamr13)
-
-
